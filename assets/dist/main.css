@@ -40,6 +40,7 @@ button {
   font-size: 0.8rem;
   letter-spacing: 0.02rem;
   color: white;
+  cursor: pointer;
 }
 
 input[type="submit"],
@@ -54,6 +55,7 @@ button {
   letter-spacing: 0.02rem;
   color: white;
   overflow: visible;
+  cursor: pointer;
 }
 
 ul {
@@ -65,6 +67,7 @@ a:visited,
 a:hover,
 a:active {
   text-decoration: none;
+  cursor: pointer;
 }
 
 .display-none {
@@ -166,8 +169,6 @@ a:active {
   font-size: 1.25rem;
 }
 
-
-
 .hero-section {
   background: url(f8c75651f31fcfc95eb2.jpeg);
   background-size: cover;
@@ -246,8 +247,6 @@ a:active {
 .btn-container button:nth-of-type(1) {
   margin-right: 1rem;
 }
-
-
 
 .client-article {
   margin-top: 4rem;
@@ -421,8 +420,6 @@ a:active {
   background: #bb2323;
 }
 
-
-
 .competences2-section {
   display: none;
 }
@@ -503,8 +500,6 @@ a:active {
   width: 36rem;
 }
 
-
-
 .review-section {
   background: url(74f1fc4be0b8e8f2efc0.jpeg);
   background-size: cover;
@@ -546,8 +541,6 @@ a:active {
   display: none;
 }
 
-
-
 .news-section {
   background: url(e3eb013ae99fe338a438.jpeg);
   background-size: cover;
@@ -582,8 +575,6 @@ a:active {
 .news-article-content p {
   margin-top: 1.5rem;
 }
-
-
 
 .contact-section {
   background: url(984a770e10baa2cc0a37.jpeg);
@@ -729,8 +720,6 @@ a:active {
     display: block;
   }
 
- 
-
   .hero-section {
     background-position: top;
   }
@@ -750,8 +739,6 @@ a:active {
   .btn-container {
     margin-top: 4rem;
   }
-
-
 
   .client-article {
     margin-top: 10rem;
@@ -782,8 +769,6 @@ a:active {
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
-
-
   .portfolio-section .center {
     grid-template-columns: 1fr 2fr;
   }
@@ -799,8 +784,6 @@ a:active {
   .portfolio-article-content ul li:nth-of-type(1) img {
     height: 14rem;
   }
-
-  
 
   .experience-section .center {
     grid-template-columns: 1fr 2fr;
@@ -819,13 +802,9 @@ a:active {
     display: block;
   }
 
-
-
   .competences2-section {
     display: block;
   }
-
-  
 
   .review-section h2 {
     text-align: center;
@@ -853,13 +832,9 @@ a:active {
     display: block;
   }
 
-
-
   .news-section .center {
     grid-template-columns: 1fr 5fr;
   }
-
-
 
   .contact-section .center {
     display: grid;
@@ -902,8 +877,6 @@ a:active {
   .hero-name {
     font-size: 5rem;
   }
-
-  
 
   .contact-item div h4 {
     font-size: 1.2rem;
