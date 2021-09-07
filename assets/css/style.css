@@ -55,6 +55,7 @@ button {
   letter-spacing: 0.02rem;
   color: white;
   overflow: visible;
+  cursor: pointer;
 }
 
 ul {
